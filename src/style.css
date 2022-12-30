@@ -1,0 +1,84 @@
+.online {
+  color: blueviolet;
+  margin: 20px 10px;
+  font-size: 44px;
+  position: relative;
+  top: 50px;
+}
+.current {
+  position: relative;
+  top: 39px;
+}
+#current-temp {
+  color: wheat;
+  position: relative;
+  left: 1061px;
+  bottom: 236px;
+  padding: 10px 20px;
+  background-color: brown;
+}
+.tehran {
+  position: relative;
+  left: 10px;
+  top: 25px;
+  display: inline;
+}
+.today-temperature {
+  position: relative;
+  top: 30px;
+  left: 20px;
+  font-size: 18px;
+}
+.dailly {
+  position: relative;
+  left: 90px;
+  bottom: 110px;
+}
+.city {
+  text-decoration: underline;
+  font-size: 36px;
+}
+#sign1:hover {
+  color: blue;
+}
+#sign2:hover {
+  color: blue;
+}
+.country {
+  font-size: 30px;
+  position: relative;
+  top: -15px;
+  left: 4px;
+}
+.search-box {
+  position: relative;
+  left: 250px;
+  top: -190px;
+
+  max-width: 800px;
+}
+.MORNING {
+  left: 250px;
+  top: -132px;
+  border-radius: 30px;
+}
+.sun {
+  position: relative;
+  top: 15px;
+}
+.evening {
+  right: -36px;
+  left: 580px;
+  top: -280px;
+  border-radius: 30px;
+}
+.night {
+  left: 910px;
+  top: -426px;
+  border-radius: 30px;
+}
+.days {
+  position: relative;
+  bottom: 350px;
+  left: 170px;
+}
